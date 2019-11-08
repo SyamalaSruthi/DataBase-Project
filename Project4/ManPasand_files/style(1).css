@@ -1,0 +1,64 @@
+/*
+
+Theme Name: NOO Organici
+Theme URI: https://www.nootheme.com/
+Author: NooTheme
+Author URI: https://www.nootheme.com/
+Description: Organici is an advanced WordPress theme that perfectly designed and developed for all kinds of Organic Store. Flexible settings, Fast loading, Fully responsive, Retina ready,  SEO Friendly, One click demo, Devoted support and much more are blended together in Organici.
+Version: 1.2.0
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, sticky-post, theme-options, translation-ready
+Text Domain: noo-organici
+
+*/
+
+.screen-reader-text {}
+.bypostauthor {}
+.noo-product-action{
+display:none;
+}
+.noo-rating{
+display:none;
+}
+.single-product div.product .woocommerce-tabs{
+display:none;
+}
+.yith-wcwl-add-to-wishlist{
+display:none;}
+
+.vc_gitem-post-data-source-post_excerpt{
+
+display: none;}
+.sidebar-top-footer{
+display:none;
+}
+
+.noo_testimonial_wrap .testimonial-content div i  {
+    color: white;
+opacity:0.9;}
+
+h2{
+font-family: Lato;
+color:#ef4613;
+
+}
+h4{
+font-family: Lato;
+color:#ef4613;
+
+}
+.vc_btn3.vc_btn3-color-juicy-pink, .vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat{
+
+background-color:#75D69C!important;
+}
+
+.noo-mail-title{
+color:#ef4613;
+}
+.noo-main-menu .navbar-nav li > a{
+color:#ef4613;
+}
+
+.noo-main-menu .navbar-nav li > a:hover{
+color:#75D69C;}
